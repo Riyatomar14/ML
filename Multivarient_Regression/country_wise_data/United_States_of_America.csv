@@ -1,0 +1,312 @@
+Area,Item,Year,Area_Harvested,Yield
+United States of America,Apples,1961,184780.0,13984.2
+United States of America,Apples,1962,182390.0,14151.0
+United States of America,Apples,1963,182390.0,14304.5
+United States of America,Apples,1964,182630.0,15692.9
+United States of America,Apples,1965,175270.0,15890.6
+United States of America,Apples,1966,170290.0,15346.3
+United States of America,Apples,1967,166240.0,14749.0
+United States of America,Apples,1968,163450.0,15114.3
+United States of America,Apples,1969,162840.0,18996.0
+United States of America,Apples,1970,162880.0,17816.4
+United States of America,Apples,1971,162760.0,17761.2
+United States of America,Apples,1972,163980.0,16261.5
+United States of America,Apples,1973,161510.0,17594.8
+United States of America,Apples,1974,160250.0,18623.9
+United States of America,Apples,1975,160090.0,21335.1
+United States of America,Apples,1976,163170.0,17991.8
+United States of America,Apples,1977,163250.0,18726.0
+United States of America,Apples,1978,163610.0,21061.5
+United States of America,Apples,1979,164950.0,22345.7
+United States of America,Apples,1980,166810.0,23979.4
+United States of America,Apples,1981,167900.0,20909.0
+United States of America,Apples,1982,169280.0,21763.1
+United States of America,Apples,1983,171790.0,22122.4
+United States of America,Apples,1984,171140.0,22062.1
+United States of America,Apples,1985,174300.0,20596.7
+United States of America,Apples,1986,179030.0,19911.7
+United States of America,Apples,1987,183040.0,26620.4
+United States of America,Apples,1988,187605.0,22067.6
+United States of America,Apples,1989,194600.0,23222.0
+United States of America,Apples,1990,191600.0,22860.1
+United States of America,Apples,1991,181785.0,24220.3
+United States of America,Apples,1992,184152.0,26031.7
+United States of America,Apples,1993,185933.0,26066.8
+United States of America,Apples,1994,187208.0,27865.9
+United States of America,Apples,1995,187208.0,25630.8
+United States of America,Apples,1996,189211.0,24888.4
+United States of America,Apples,1997,189373.0,24727.9
+United States of America,Apples,1998,188685.0,27997.6
+United States of America,Apples,1999,183809.0,26236.0
+United States of America,Apples,2000,175492.0,27348.3
+United States of America,Apples,2001,165638.0,25804.5
+United States of America,Apples,2002,159770.0,24199.6
+United States of America,Apples,2003,157281.0,25321.5
+United States of America,Apples,2004,154533.0,30562.1
+United States of America,Apples,2005,149354.0,29358.7
+United States of America,Apples,2006,145683.0,30585.7
+United States of America,Apples,2007,142000.0,29034.4
+United States of America,Apples,2008,141151.0,30924.7
+United States of America,Apples,2009,139576.0,31483.0
+United States of America,Apples,2010,136217.0,30908.7
+United States of America,Apples,2011,133870.0,31984.2
+United States of America,Apples,2012,131604.0,30993.3
+United States of America,Apples,2013,130661.0,36213.5
+United States of America,Apples,2014,128763.0,41617.1
+United States of America,Apples,2015,131030.0,34776.7
+United States of America,Apples,2016,133060.0,39185.6
+United States of America,Apples,2017,132820.0,39456.9
+United States of America,Apples,2018,117600.0,39496.5
+United States of America,Apples,2019,119301.0,42149.8
+United States of America,Apples,2020,119707.0,38971.8
+United States of America,Apples,2021,121205.0,37694.9
+United States of America,Apples,2022,122338.0,36984.3
+United States of America,Apples,2023,121407.0,42862.8
+United States of America,Apples,2024,121205.0,40615.8
+United States of America,Bananas,1961,380.0,10544.7
+United States of America,Bananas,1962,360.0,9713.9
+United States of America,Bananas,1963,308.0,9198.1
+United States of America,Bananas,1964,360.0,11466.7
+United States of America,Bananas,1965,384.0,8458.3
+United States of America,Bananas,1966,409.0,9753.1
+United States of America,Bananas,1967,409.0,8978.0
+United States of America,Bananas,1968,388.0,7582.5
+United States of America,Bananas,1969,376.0,7444.1
+United States of America,Bananas,1970,308.0,8233.8
+United States of America,Bananas,1971,293.0,7276.5
+United States of America,Bananas,1972,291.0,7948.5
+United States of America,Bananas,1973,267.0,11209.7
+United States of America,Bananas,1974,247.0,12121.5
+United States of America,Bananas,1975,255.0,11027.5
+United States of America,Bananas,1976,223.0,10148.0
+United States of America,Bananas,1977,223.0,11798.2
+United States of America,Bananas,1978,230.0,11260.9
+United States of America,Bananas,1979,250.0,10160.0
+United States of America,Bananas,1980,230.0,9087.0
+United States of America,Bananas,1981,260.0,10461.5
+United States of America,Bananas,1982,290.0,9069.0
+United States of America,Bananas,1983,350.0,5828.6
+United States of America,Bananas,1984,350.0,11542.9
+United States of America,Bananas,1985,340.0,10882.4
+United States of America,Bananas,1986,397.0,11083.1
+United States of America,Bananas,1987,433.0,11940.0
+United States of America,Bananas,1988,433.0,13856.8
+United States of America,Bananas,1989,405.0,13432.1
+United States of America,Bananas,1990,360.0,14238.9
+United States of America,Bananas,1991,360.0,14363.9
+United States of America,Bananas,1992,352.0,15454.5
+United States of America,Bananas,1993,336.0,15922.6
+United States of America,Bananas,1994,356.0,17584.3
+United States of America,Bananas,1995,356.0,16573.0
+United States of America,Bananas,1996,388.0,15206.2
+United States of America,Bananas,1997,384.0,16171.9
+United States of America,Bananas,1998,575.0,16565.2
+United States of America,Bananas,1999,575.0,19405.2
+United States of America,Bananas,2000,591.0,22257.2
+United States of America,Bananas,2001,603.0,21063.0
+United States of America,Bananas,2002,538.0,16858.7
+United States of America,Bananas,2003,546.0,18774.7
+United States of America,Bananas,2004,405.0,18592.6
+United States of America,Bananas,2005,397.0,23879.1
+United States of America,Bananas,2006,405.0,19037.0
+United States of America,Bananas,2007,526.0,22076.0
+United States of America,Bananas,2008,445.0,17730.3
+United States of America,Bananas,2009,445.0,18853.9
+United States of America,Bananas,2010,445.0,18143.8
+United States of America,Bananas,2011,405.0,19488.9
+United States of America,Bananas,2012,396.0,18184.5
+United States of America,Bananas,2013,364.0,18192.3
+United States of America,Bananas,2014,348.0,18770.1
+United States of America,Bananas,2015,336.0,16199.4
+United States of America,Bananas,2016,294.0,11520.4
+United States of America,Bananas,2017,380.0,7947.4
+United States of America,Bananas,2018,337.0,11732.7
+United States of America,Bananas,2019,348.0,9907.2
+United States of America,Bananas,2020,339.0,10262.2
+United States of America,Bananas,2021,328.0,11036.9
+United States of America,Bananas,2022,338.0,10391.0
+United States of America,Bananas,2023,335.0,10558.6
+United States of America,Bananas,2024,334.0,10658.7
+United States of America,Cherries,1961,15860.0,5877.2
+United States of America,Cherries,1962,16390.0,6132.8
+United States of America,Cherries,1963,17480.0,3643.2
+United States of America,Cherries,1964,18170.0,5967.8
+United States of America,Cherries,1965,18490.0,4298.9
+United States of America,Cherries,1966,19180.0,5481.9
+United States of America,Cherries,1967,20030.0,4989.0
+United States of America,Cherries,1968,20720.0,3979.4
+United States of America,Cherries,1969,21290.0,5467.4
+United States of America,Cherries,1970,21210.0,5229.2
+United States of America,Cherries,1971,21120.0,6068.9
+United States of America,Cherries,1972,21290.0,4092.8
+United States of America,Cherries,1973,21530.0,6684.0
+United States of America,Cherries,1974,22010.0,6058.0
+United States of America,Cherries,1975,21890.0,6460.9
+United States of America,Cherries,1976,21080.0,7440.7
+United States of America,Cherries,1977,20800.0,6494.2
+United States of America,Cherries,1978,20070.0,7087.7
+United States of America,Cherries,1979,19550.0,8445.5
+United States of America,Cherries,1980,19020.0,8189.3
+United States of America,Cherries,1981,18570.0,7549.8
+United States of America,Cherries,1982,18130.0,7836.2
+United States of America,Cherries,1983,17970.0,9147.5
+United States of America,Cherries,1984,18010.0,9157.7
+United States of America,Cherries,1985,18090.0,6644.6
+United States of America,Cherries,1986,18370.0,6804.6
+United States of America,Cherries,1987,18860.0,10339.3
+United States of America,Cherries,1988,19220.0,8777.3
+United States of America,Cherries,1989,19720.0,8874.2
+United States of America,Cherries,1990,19910.0,7141.1
+United States of America,Cherries,1991,18200.0,7406.6
+United States of America,Cherries,1992,18460.0,10092.1
+United States of America,Cherries,1993,18890.0,8096.9
+United States of America,Cherries,1994,20060.0,9374.9
+United States of America,Cherries,1995,21075.0,7124.1
+United States of America,Cherries,1996,22170.0,6305.8
+United States of America,Cherries,1997,22920.0,8944.2
+United States of America,Cherries,1998,23180.0,7706.0
+United States of America,Cherries,1999,23473.0,8351.8
+United States of America,Cherries,2000,24869.0,7441.8
+United States of America,Cherries,2001,27559.0,7584.1
+United States of America,Cherries,2002,29433.0,5591.1
+United States of America,Cherries,2003,29433.0,5464.8
+United States of America,Cherries,2004,31677.0,8107.6
+United States of America,Cherries,2005,32027.0,7104.1
+United States of America,Cherries,2006,32901.0,8095.5
+United States of America,Cherries,2007,33051.0,8528.1
+United States of America,Cherries,2008,33431.0,6732.5
+United States of America,Cherries,2009,34524.0,11638.0
+United States of America,Cherries,2010,34411.0,8257.5
+United States of America,Cherries,2011,34730.0,8735.3
+United States of America,Cherries,2012,34961.0,11002.2
+United States of America,Cherries,2013,36462.0,8262.7
+United States of America,Cherries,2014,36300.0,9086.8
+United States of America,Cherries,2015,36353.0,8444.7
+United States of America,Cherries,2016,36300.0,8690.2
+United States of America,Cherries,2017,37430.0,10604.9
+United States of America,Cherries,2018,34400.0,9082.3
+United States of America,Cherries,2019,34600.0,9244.8
+United States of America,Cherries,2020,34400.0,8573.5
+United States of America,Cherries,2021,35410.0,9410.1
+United States of America,Cherries,2022,35006.0,5786.7
+United States of America,Cherries,2023,35613.0,9025.4
+United States of America,Cherries,2024,38688.0,8610.4
+United States of America,Grapes,1961,206950.0,14268.3
+United States of America,Grapes,1962,214400.0,13703.0
+United States of America,Grapes,1963,217520.0,15819.0
+United States of America,Grapes,1964,219420.0,14379.7
+United States of America,Grapes,1965,221200.0,17845.5
+United States of America,Grapes,1966,221240.0,15312.4
+United States of America,Grapes,1967,220000.0,12627.2
+United States of America,Grapes,1968,219130.0,14692.6
+United States of America,Grapes,1969,219820.0,16084.8
+United States of America,Grapes,1970,216710.0,12991.0
+United States of America,Grapes,1971,216540.0,16734.4
+United States of America,Grapes,1972,214930.0,10884.0
+United States of America,Grapes,1973,222090.0,17149.2
+United States of America,Grapes,1974,236700.0,16092.4
+United States of America,Grapes,1975,253490.0,15626.3
+United States of America,Grapes,1976,283840.0,14057.5
+United States of America,Grapes,1977,293070.0,13303.5
+United States of America,Grapes,1978,291450.0,14214.6
+United States of America,Grapes,1979,281860.0,16057.4
+United States of America,Grapes,1980,281900.0,18005.5
+United States of America,Grapes,1981,290800.0,13907.8
+United States of America,Grapes,1982,302500.0,19658.5
+United States of America,Grapes,1983,302010.0,16585.5
+United States of America,Grapes,1984,311600.0,15163.7
+United States of America,Grapes,1985,316540.0,16095.9
+United States of America,Grapes,1986,311840.0,15207.8
+United States of America,Grapes,1987,309050.0,15460.6
+United States of America,Grapes,1988,307880.0,17773.8
+United States of America,Grapes,1989,301500.0,17844.1
+United States of America,Grapes,1990,299400.0,17153.0
+United States of America,Grapes,1991,297800.0,16924.8
+United States of America,Grapes,1992,301959.0,18181.3
+United States of America,Grapes,1993,307450.0,17772.0
+United States of America,Grapes,1994,314300.0,16953.1
+United States of America,Grapes,1995,316700.0,16964.3
+United States of America,Grapes,1996,327320.0,15394.0
+United States of America,Grapes,1997,338020.0,19502.7
+United States of America,Grapes,1998,346480.0,15238.4
+United States of America,Grapes,1999,366132.0,15452.1
+United States of America,Grapes,2000,383016.0,18207.6
+United States of America,Grapes,2001,377357.0,15793.0
+United States of America,Grapes,2002,384431.0,17318.5
+United States of America,Grapes,2003,384862.0,15297.1
+United States of America,Grapes,2004,377614.0,14991.1
+United States of America,Grapes,2005,378320.0,18736.7
+United States of America,Grapes,2006,379271.0,15179.8
+United States of America,Grapes,2007,378992.0,16892.9
+United States of America,Grapes,2008,378766.0,17530.5
+United States of America,Grapes,2009,382348.0,17338.1
+United States of America,Grapes,2010,385221.0,17594.4
+United States of America,Grapes,2011,388539.0,17389.4
+United States of America,Grapes,2012,411979.0,16583.1
+United States of America,Grapes,2013,421651.0,18571.4
+United States of America,Grapes,2014,418607.0,17085.5
+United States of America,Grapes,2015,413873.0,16827.9
+United States of America,Grapes,2016,408571.0,17090.4
+United States of America,Grapes,2017,403800.0,16588.7
+United States of America,Grapes,2018,379190.0,18172.9
+United States of America,Grapes,2019,378381.0,16689.3
+United States of America,Grapes,2020,374338.0,14637.6
+United States of America,Grapes,2021,365435.0,14979.3
+United States of America,Grapes,2022,363816.0,14867.7
+United States of America,Grapes,2023,360579.0,14842.6
+United States of America,Grapes,2024,373529.0,13124.1
+United States of America,"Mangoes, guavas and mangosteens",1970,570.0,6473.7
+United States of America,"Mangoes, guavas and mangosteens",1971,570.0,7877.2
+United States of America,"Mangoes, guavas and mangosteens",1972,570.0,7657.9
+United States of America,"Mangoes, guavas and mangosteens",1973,570.0,10942.1
+United States of America,"Mangoes, guavas and mangosteens",1974,550.0,10205.5
+United States of America,"Mangoes, guavas and mangosteens",1975,670.0,12101.5
+United States of America,"Mangoes, guavas and mangosteens",1976,690.0,14462.3
+United States of America,"Mangoes, guavas and mangosteens",1977,670.0,6516.4
+United States of America,"Mangoes, guavas and mangosteens",1978,670.0,8377.6
+United States of America,"Mangoes, guavas and mangosteens",1979,590.0,10993.2
+United States of America,"Mangoes, guavas and mangosteens",1980,590.0,10571.2
+United States of America,"Mangoes, guavas and mangosteens",1981,590.0,10147.5
+United States of America,"Mangoes, guavas and mangosteens",1982,610.0,9201.6
+United States of America,"Mangoes, guavas and mangosteens",1983,610.0,14868.9
+United States of America,"Mangoes, guavas and mangosteens",1984,690.0,15782.6
+United States of America,"Mangoes, guavas and mangosteens",1985,730.0,14917.8
+United States of America,"Mangoes, guavas and mangosteens",1986,850.0,11740.0
+United States of America,"Mangoes, guavas and mangosteens",1987,890.0,15292.1
+United States of America,"Mangoes, guavas and mangosteens",1988,970.0,9350.5
+United States of America,"Mangoes, guavas and mangosteens",1989,1010.0,9880.2
+United States of America,"Mangoes, guavas and mangosteens",1990,1010.0,8643.6
+United States of America,"Mangoes, guavas and mangosteens",1991,1010.0,12346.5
+United States of America,"Mangoes, guavas and mangosteens",1992,1010.0,9881.2
+United States of America,"Mangoes, guavas and mangosteens",1993,65.0,14000.0
+United States of America,"Mangoes, guavas and mangosteens",1994,647.0,4188.6
+United States of America,"Mangoes, guavas and mangosteens",1995,607.0,5980.2
+United States of America,"Mangoes, guavas and mangosteens",1996,607.0,4481.1
+United States of America,"Mangoes, guavas and mangosteens",1997,567.0,4797.2
+United States of America,"Mangoes, guavas and mangosteens",1998,567.0,5003.2
+United States of America,"Mangoes, guavas and mangosteens",1999,567.0,4831.8
+United States of America,"Mangoes, guavas and mangosteens",2000,690.0,4347.8
+United States of America,"Mangoes, guavas and mangosteens",2001,688.0,4589.7
+United States of America,"Mangoes, guavas and mangosteens",2002,526.0,4372.6
+United States of America,"Mangoes, guavas and mangosteens",2003,600.0,4333.3
+United States of America,"Mangoes, guavas and mangosteens",2004,650.0,4307.7
+United States of America,"Mangoes, guavas and mangosteens",2005,453.0,6291.1
+United States of America,"Mangoes, guavas and mangosteens",2006,391.0,7159.1
+United States of America,"Mangoes, guavas and mangosteens",2007,272.0,8082.1
+United States of America,"Mangoes, guavas and mangosteens",2008,198.0,9078.2
+United States of America,"Mangoes, guavas and mangosteens",2009,93.0,10239.7
+United States of America,"Mangoes, guavas and mangosteens",2010,47.0,12553.2
+United States of America,"Mangoes, guavas and mangosteens",2011,45.0,19155.6
+United States of America,"Mangoes, guavas and mangosteens",2012,55.0,19636.1
+United States of America,"Mangoes, guavas and mangosteens",2013,41.0,24642.0
+United States of America,"Mangoes, guavas and mangosteens",2014,41.0,20148.1
+United States of America,"Mangoes, guavas and mangosteens",2015,58.0,19230.2
+United States of America,"Mangoes, guavas and mangosteens",2016,65.0,19135.5
+United States of America,"Mangoes, guavas and mangosteens",2017,75.0,19087.2
+United States of America,"Mangoes, guavas and mangosteens",2018,75.0,19234.3
+United States of America,"Mangoes, guavas and mangosteens",2019,73.0,19466.5
+United States of America,"Mangoes, guavas and mangosteens",2020,64.0,19591.0
+United States of America,"Mangoes, guavas and mangosteens",2021,65.0,19584.5
+United States of America,"Mangoes, guavas and mangosteens",2022,65.0,19610.2
+United States of America,"Mangoes, guavas and mangosteens",2023,75.0,20000.0
+United States of America,"Mangoes, guavas and mangosteens",2024,60.0,19531.8
